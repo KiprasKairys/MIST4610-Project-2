@@ -27,3 +27,4 @@ This visualization shows the total number of fatalities for each collision event
 <ins>**How do different combinations of lighting and weather relate to fatal crash outcomes?**<ins>
 
 This visualization shows how fatal crash outcomes vary across different combinations of lighting and weather conditions in the FARS 2022 dataset. By comparing fatality counts under these environmental factors, we can quickly identify which conditions create the highest risk for drivers. The findings help highlight where road safety efforts should be focused, such as improving lighting infrastructure, issuing weather-related safety guidance, or enhancing driver awareness during hazardous conditions. The chart was created in Tableau using lighting, weather, and fatality data from FARS 2022.
+
