@@ -21,10 +21,11 @@ This question connects directly to the FARS 2022 dataset, which includes detaile
 ## Analysis and Results
 <ins>**What is the total number of fatalities associated with each type of collision event?**<ins>
 
-This visualization shows the total number of fatalities for each collision event type in the FARS 2022 dataset. By comparing fatality counts across crash types, we can quickly identify which events are most dangerous. The findings help highlight where road safety efforts should be focused, such as targeting common high-fatality collision types through policy changes, awareness campaigns, or roadway improvements. The chart was created in Tableau using crash event categories and fatality data from FARS 2022.
+This visualization shows the total number of fatalities associated with each collision event type in the FARS 2022 dataset. By comparing fatality counts across crash types, we can quickly identify which events pose the highest risk to drivers. These insights help guide where road safety efforts should be concentrated, whether through policy changes, targeted awareness campaigns, or roadway design improvements. The chart was created in Tableau using crash event categories and fatality data from FARS 2022. For clarity and simplicity, this visualization focuses on the ten most common crash types.
 ![IMG_1560](https://github.com/user-attachments/assets/5e91b336-8c2e-4fa7-a030-8acf32bea273)
 
 <ins>**How do different combinations of lighting and weather relate to fatal crash outcomes?**<ins>
 
 This visualization shows how fatal crash outcomes vary across different combinations of lighting and weather conditions in the FARS 2022 dataset. By comparing fatality counts under these environmental factors, we can quickly identify which conditions create the highest risk for drivers. The findings help highlight where road safety efforts should be focused, such as improving lighting infrastructure, issuing weather-related safety guidance, or enhancing driver awareness during hazardous conditions. The chart was created in Tableau using lighting, weather, and fatality data from FARS 2022.
+![Image 11-16-25 at 6 50 PM](https://github.com/user-attachments/assets/48d8fa59-255c-48df-9751-d1c1d93693c0)
 
